@@ -1,0 +1,12 @@
+spring+ dev dependencies <<-- 2003 ->2009(VM WARE)--springboot -->2014
+
+
+SQL DB -->  Driver --> JDBC  --> JPA  --> SPRING Configure <--HTTP  <--TomCat
+
+features in springboot:
+1.Autoconfiguration
+2.Embeded Server
+3.External Configuration
+
+
+Dependency Injection -->  IOC(Inversion Of Control module)
